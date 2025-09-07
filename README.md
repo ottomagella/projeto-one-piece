@@ -22,4 +22,21 @@ O objetivo foi praticar conceitos de **HTML, CSS e JavaScript**, criando uma pá
 ## 📦 Como executar o projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ottomagella/one-piece.git
+   git clone https://github.com/ottomagella/projeto-one-piece.git
+2. Acesse a pasta do projeto:
+   ```bash
+   cd projeto-one-piece
+3. Abra o arquivo index.html no navegador
+
+---
+## 📸 Demonstração
+
+![Projeto](src/imagens/projeto-onepiece.gif)
+---
+### 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, aprendi a:
+
+- **Estruturar páginas com HTML semântico**
+- **Utilizar CSS para estilização e responsividade**
+- **Manipular o DOM com JavaScript para alterar o conteúdo exibido dinamicamente**
